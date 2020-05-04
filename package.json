@@ -1,0 +1,32 @@
+{
+  "name": "@hacss/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration for Hacss projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests needed here.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacss/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "hacss",
+    "format",
+    "lint"
+  ],
+  "author": "Nick Saunders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacss/eslint-config/issues"
+  },
+  "homepage": "https://github.com/hacss/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^6.11.0"
+  }
+}
