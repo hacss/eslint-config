@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/hacss/eslint-config/issues"
   },
-  "homepage": "https://github.com/hacss/eslint-config#readme",
+  "homepage": "https://hacss.io",
   "peerDependencies": {
     "eslint": ">= 3"
   },
