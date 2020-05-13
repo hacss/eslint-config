@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["prettier"],
+  extends: ["eslint:recommended", "prettier"],
   rules: {
     "comma-dangle": ["error", "always-multiline"],
   },
